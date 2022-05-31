@@ -42,7 +42,7 @@ header {
     justify-content: center;
 }
 
-div {
+article {
     background-color: rgb(255, 255, 255);
     padding: 15px;
     margin: 15px;
