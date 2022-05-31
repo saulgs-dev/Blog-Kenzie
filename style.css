@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    font-family: Oswald;
+    background-color: aliceblue;
+}
+
+h1 {
+    background-color: #00003c;
+    padding: 30px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+p, i {
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+a {
+    justify-content: right;
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-size: 20px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: #00003c;
+    width: 100%;
+    
+}
+
+.cabecalho {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 15px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    align: left;
+}
+
+.container {
+    width: 720px;
+    margin: auto;
+}
+
+label, input, button {
+    font-size: 20px;
+    margin: 3px;
+    width: 30%;
+    
+}
+
+input {
+    color: black;
+}
+
+.pform {
+    font-size: 20px;
+    margin: 13px;
+    color: white;
+    background-color: #00003c;
+}
+
+footer {
+    width: 100%;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #00003c;
+}
+
+.h2footer {
+    font-size: 30px;
+    margin: 5px;
+    color: white;
+    background-color: #00003c;
+}
+
+form {
+    background-color: #00003c;
+}
+
+label {
+    background-color: #00003c;
+}
